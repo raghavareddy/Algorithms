@@ -11,7 +11,7 @@ package list;
 
 public class DoubleLinkedList<T> implements IDoubleLinkedList<T>
 {
-/* Adding a comment*/
+
 	private final Node<T> head;
 	private int size;
 
